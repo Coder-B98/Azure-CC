@@ -9,15 +9,15 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>Environments and Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Active Directory Domain Services
-- PowerShell
+- Microsoft Azure
+- Resource Groups
+- Storage Accounts
+- Notepad
+
 
 <h2>Operating Systems Used </h2>
 
-- Windows Server 2022
-- Windows 10 (21H2)
+-Any modern operiting system that can visit https://www.portal.azure.com
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
