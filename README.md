@@ -6,9 +6,6 @@
 This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
 
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How to Deploy on-premises Active Directory within Azure Compute](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
@@ -24,10 +21,10 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- Go to the Azure portal and create a resource group.
+- Create a storage account in that resource group.
+- Create a text file on your desktop and upload it into the storage account.
+- Edit the file in the storage account and then download it to note the difference.
 
 <h2>Deployment and Configuration Steps</h2>
 
