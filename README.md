@@ -60,11 +60,28 @@ Once the validation has passed click create to create your first resource group 
 <br />
 
 <p>
+<img src="https://i.imgur.com/mQs4Heq.png"/>
+</p>
+<p>
+In https://www.portal.azure.com click on storage container or type it in the search bar to begin the process of creating a storage account.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/oLM8YFQ.png"/>
+</p>
+<p>
+Create a storage account and give it a unique name then allow it to validate and create.
+</p>
+<br />
+
+<p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
+
 
 
