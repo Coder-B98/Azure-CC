@@ -91,12 +91,52 @@ Get to this page by clicking containers on the left menu and create a new contai
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/zmFHXeU.png"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Use notepad or a similar program to creat a text file with one line of text.
 </p>
 <br />
+
+<p>
+<img src="https://i.imgur.com/qDi7XmP.png"/>
+</p>
+<p>
+Now click on the container you made click on the upload button and upload the file you made.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/xKqClv1.png"/>
+</p>
+<p>
+Next right click on the file you uploaded and then click on view/edit.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/0lDCAGu.png"/>
+</p>
+<p>
+Edit and then save an edit to the file. Once that is done click download to download the edited file onto your local computer.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/ZLviumQ.png"/>
+</p>
+<p>
+Open the file on your computer and note how it has your edit.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/30MQ6NR.png"/>
+<p>
+This concludes the crash course of Azure. Return to the resource group page and delete the resource group to ensure you aren't continously using cloud resources.
+</p>
+<br />
+
 
 
 
