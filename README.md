@@ -76,12 +76,28 @@ Create a storage account and give it a unique name then allow it to validate and
 <br />
 
 <p>
+<img src="https://i.imgur.com/t812XBj.png"/>
+</p>
+<p>
+Click on go to resource to continue with the crash course.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DrWd1u5.png"/>
+</p>
+<p>
+Get to this page by clicking containers on the left menu and create a new container by clicking the plus button on top.
+<br />
+
+<p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
+
 
 
 
